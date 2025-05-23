@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cash Counter</string>
+    <string name="save_count">Save Count</string>
+    <string name="speak">Speak</string>
+    <string name="history">History</string>
+    <string name="ad_not_ready">Ad not ready. Try again soon.</string>
+    <string name="unlock_dark_mode">Unlock Dark Mode</string>
+    <string name="dark_mode_unlocked">Dark Mode Unlocked!</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="export_pdf">Export as PDF</string>
+    <string name="delete_confirm">Delete this record?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="rate_app">Rate App</string>
+    <!-- Denominations -->
+    <string name="denom_2000">₹2000</string>
+    <string name="denom_500">₹500</string>
+    <string name="denom_200">₹200</string>
+    <string name="denom_100">₹100</string>
+    <string name="denom_50">₹50</string>
+    <string name="denom_20">₹20</string>
+    <string name="denom_10">₹10</string>
+    <string name="denom_5">₹5</string>
+    <string name="denom_2">₹2</string>
+    <string name="denom_1">₹1</string>
+    <string name="total_amount">Total amount:</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">कैश काउंटर</string>
+    <string name="save_count">गिनती सहेजें</string>
+    <string name="speak">बोलें</string>
+    <string name="history">इतिहास</string>
+    <string name="ad_not_ready">विज्ञापन तैयार नहीं है। कृपया बाद में प्रयास करें।</string>
+    <string name="unlock_dark_mode">डार्क मोड अनलॉक करें</string>
+    <string name="dark_mode_unlocked">डार्क मोड अनलॉक हो गया!</string>
+    <string name="share_pdf">पीडीएफ साझा करें</string>
+    <string name="export_pdf">पीडीएफ के रूप में निर्यात करें</string>
+    <string name="delete_confirm">इस रिकॉर्ड को हटाएँ?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="about">परिचय</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="rate_app">ऐप रेट करें</string>
+    <!-- Denominations -->
+    <string name="denom_2000">₹2000</string>
+    <string name="denom_500">₹500</string>
+    <string name="denom_200">₹200</string>
+    <string name="denom_100">₹100</string>
+    <string name="denom_50">₹50</string>
+    <string name="denom_20">₹20</string>
+    <string name="denom_10">₹10</string>
+    <string name="denom_5">₹5</string>
+    <string name="denom_2">₹2</string>
+    <string name="denom_1">₹1</string>
+    <string name="total_amount">कुल राशि:</string>
+</resources>

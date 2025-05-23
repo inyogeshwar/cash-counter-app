@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_history"
+            android:title="History"
+            android:icon="@drawable/ic_history"/>
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings"
+            android:icon="@drawable/ic_settings"/>
+        <item
+            android:id="@+id/nav_dark_mode"
+            android:title="Dark Mode"
+            android:icon="@drawable/ic_darkmode"/>
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@drawable/ic_info"/>
+        <item
+            android:id="@+id/nav_rate"
+            android:title="Rate App"
+            android:icon="@drawable/ic_star"/>
+    </group>
+</menu>
